@@ -1,1 +1,3 @@
-# ZDX_stellar.org
+# ZDX Stellar
+
+![Logo](zdx.png)
