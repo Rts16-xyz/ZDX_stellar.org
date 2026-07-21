@@ -1,0 +1,30 @@
+VERSION="2.0.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GD7VZXYBGB3SWFHRRUKOJWGMR3EYUNYSTCKBKWF26H7UFZ6SNCI7KHT2"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Zenith Decentralized Exchange"
+ORG_DBA="ZDX"
+ORG_URL="https://rts.web.id"
+ORG_LOGO="https://rts.web.id/zdx.png"
+ORG_DESCRIPTION="ZDX is a decentralized finance (DeFi) utility token built on the Stellar Network."
+ORG_PHYSICAL_ADDRESS="Indonesia"
+ORG_OFFICIAL_EMAIL="admin@rts.web.id"
+
+[[PRINCIPALS]]
+name="ZDX Team"
+email="admin@rts.web.id"
+
+[[CURRENCIES]]
+code="ZDX"
+issuer="GD7VZXYBGB3SWFHRRUKOJWGMR3EYUNYSTCKBKWF26H7UFZ6SNCI7KHT2"
+display_decimals=7
+name="Zenith Decentralized Exchange"
+desc="ZDX is the native utility token powering the Zenith Decentralized Exchange ecosystem on Stellar."
+image="https://rts.web.id/zdx.png"
+conditions="Maximum supply: 7,000,000 ZDX"
+status="live"
+is_asset_anchored=false
