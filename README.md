@@ -3,7 +3,7 @@
 
 # ZDX Stellar
 
-<img src="https://rts.web.id/zdx.png" width="220" alt="ZDX Logo">
+<img src="https://rts.web.id/zdx.png" width="220" alt="zdx.png">
 
 ## ZDX - Zenith Decentralized Exchange
 
