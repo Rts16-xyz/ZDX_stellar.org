@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+
+ORG_LOGO="https://rts.web.id/zdx.png"
+image="https://rts.web.id/zdx.png"
