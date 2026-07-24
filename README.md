@@ -64,7 +64,7 @@ Core Features
 
 # ZDX Stellar
 
-<img src="https://rts.web.id/zdx.png" width="220" alt="ZDz Logo">
+<img src="https://rts.web.id/zdx.png" width="220" alt="ZDD Logo">
 
 ## ZDX - Zenith Decentralized Exchange
 
